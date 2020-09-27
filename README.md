@@ -5,7 +5,8 @@
 
 ### Assumptions in problem statement
 * Max two deposits
-
+* amount deposited should be either equal to one of plans value or both of them
+* for a portfolio in which amount can be deposited multiple times those amounts cannot be part of same fund deposit
 
 ### Steps to setup
 
